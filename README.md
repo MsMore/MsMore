@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/68859625/114293040-7bfc8380-9ab0-11eb-987c-54eae23e23bf.png)
+![image](https://user-images.githubusercontent.com/68859625/114295679-5bd6bf80-9ac4-11eb-8720-3758e387ac54.png)
 - - - -
 ### About Me
 I am a student in computer engineering from Mumbai University, India. I love coding, development and being part of tech communities.
