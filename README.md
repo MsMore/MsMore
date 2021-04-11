@@ -1,6 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/68859625/114292763-8ddd2700-9aae-11eb-83df-210f84f56c2f.png)
-==========
+![image](https://user-images.githubusercontent.com/68859625/114293040-7bfc8380-9ab0-11eb-987c-54eae23e23bf.png)
+- - - -
 ### About Me
 I am a student in computer engineering from Mumbai University, India. I love coding, development and being part of tech communities.
 ### What Do I Know?
@@ -9,13 +9,18 @@ I am a student in computer engineering from Mumbai University, India. I love cod
   * JAVA
   * C#
   * Web Designing
-    <details>* CSS
+    * CSS
     * HTML
-    * Bootstrap</details>
+    * Bootstrap
   * App Dev
-    <details>* Flutter
+    * Flutter
     * React Native
-    * Android Studio</details>
+    * Android Studio
  * Game Dev
-    <details>* Unity3D</details>
-  
+   * Unity3D
+### What Do I do?
+I love working on new projects and experimenting with new ideas
+<p align= "right">
+<img src="https://user-images.githubusercontent.com/68859625/114293315-b36c2f80-9ab2-11eb-8ab0-2fa14e825896.gif" width="250">
+</p>
+
