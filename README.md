@@ -2,6 +2,8 @@
 <p align="center"><i>I am a sophmore student at Mumbai university and I love coding , developing and being part of Tech communities. I explore new tech stacks and take up exciting projects!</i></p>
 <hr>
 <h3> My Latest Work</h3>
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/68859625/114297815-7c0c7b80-9ad0-11eb-9356-8f8ca1c47ef4.gif">
 <blockquote><i>current</i></blockquote> 
 <b><ul><li>Vaani: A sign Language mobile App using Machine Learning</li></ul></b>
 <blockquote><i>previous</i></blockquote> 
