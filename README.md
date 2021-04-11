@@ -3,7 +3,7 @@
 <hr>
 <h3> My Latest Work</h3>
 <blockquote><i>current</i></blockquote> 
-<b>Vaani: A sign Language mobile App using Machine Learning</b>
+<b><ul><li>Vaani: A sign Language mobile App using Machine Learning</li></ul></b>
 <blockquote><i>previous</i></blockquote> 
 <ul>
   <li><b>Elpida: A zombie survival game made with Unity3D</b></li>
