@@ -20,7 +20,19 @@ I am a student in computer engineering from Mumbai University, India. I love cod
    * Unity3D
 ### What Do I do?
 I love working on new projects and experimenting with new ideas
-<p align= "right">
-<img src="https://user-images.githubusercontent.com/68859625/114293315-b36c2f80-9ab2-11eb-8ab0-2fa14e825896.gif" width="250">
+<p>
+ Some of my projects are:
+ <table cellspacing="150px">
+ <td>
+ <ul>
+  <li><b>Elpida:</b> A Zombie survival game using Unity3D.</li>
+  <li><b>BeeMusical:</b> A music Player using JAVA Fx</li>
+  <li><b>Vaani:</b> Sign language App using Machine learning  </li>
+  </ul>
+  </td>
+<td>
+<p align="right"><img src="https://user-images.githubusercontent.com/68859625/114293315-b36c2f80-9ab2-11eb-8ab0-2fa14e825896.gif" width="250">
 </p>
-
+</p>
+</td>
+</table>
