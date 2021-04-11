@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**MsMore/MsMore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![image](https://user-images.githubusercontent.com/68859625/114292763-8ddd2700-9aae-11eb-83df-210f84f56c2f.png)
+==========
+### About Me
+I am a student in computer engineering from Mumbai University, India. I love coding, development and being part of tech communities.
+### What Do I Know?
+  * Python
+  * C++
+  * JAVA
+  * C#
+  * Web Designing
+    <details>* CSS
+    * HTML
+    * Bootstrap</details>
+  * App Dev
+    <details>* Flutter
+    * React Native
+    * Android Studio</details>
+ * Game Dev
+    <details>* Unity3D</details>
+  
