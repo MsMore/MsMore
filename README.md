@@ -28,4 +28,5 @@
 <a href="https://linkedin.com/in/riddhimore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="riddhimore" height="30" width="40" /></a>
 <!-- <a href="https://fb.com/riddhi.more11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="riddhi.more11" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/riddhimore" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="riddhimore" height="30" width="40" /></a>
+  <a href="https://msmore.github.io" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="riddhimore" height="30" width="40" /></a>
 </p>
