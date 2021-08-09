@@ -6,8 +6,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/68859625/114297815-7c0c7b80-9ad0-11eb-9356-8f8ca1c47ef4.gif">
 <blockquote><i>current</i></blockquote> 
-<b><ul><li>Rotary club of Ulhasnagar official Website</li></ul></b>
-<b><ul><li>Chrome Extension: Note-It</li></ul></b>
+<b><ul><li>Rotary club of Ulhasnagar official Website</li></b>
+<b><li>Chrome Extension: Note-It</li></b></ul>
 <blockquote><i>previous</i></blockquote> 
 <ul>
   <li><b>Vaani: A sign Language mobile App using Machine Learning</b></li>
