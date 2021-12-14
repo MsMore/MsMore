@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/68859625/114295679-5bd6bf80-9ac4-11eb-8720-3758e387ac54.png)
-<p align="center"><i>I am a sophmore student at Mumbai university and I love coding , developing and being part of Tech communities. I explore new tech stacks and take up exciting projects!</i></p>
+<p align="center"><i>I am a third year student at Mumbai university and I love coding , developing and being part of Tech communities. I explore new tech stacks and take up exciting projects!</i></p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msmore&label=Profile%20views&color=0e75b6&style=flat" alt="msmore" /> </p>
 <h3> My Latest Work</h3>
