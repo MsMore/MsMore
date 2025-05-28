@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Riddhi More 👋</h1>
-<h3 align="center">Graduate Researcher | AI Enthusiast | Software Engineer</h3>
+<h3 align="center">LLMs and AI Researcher | Software Engineer</h3>
 
 <p align="center">
   <a href="https://github.com/MsMore">
