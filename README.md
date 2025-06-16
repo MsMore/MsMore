@@ -17,19 +17,32 @@
 
 ## 👩‍💻 About Me
 
-I'm a graduate researcher at Ontario Tech University with a passion for **AI, machine learning**, and **natural language processing**. My journey includes roles at **Google, MITACS**, and academic labs, focusing on **LLMs, fairness in AI, low-resource optimization**, and **game-based learning**.
+I'm a Computer Science professional with a deep focus on AI, Machine Learning, and Natural Language Processing — currently pursuing a research-based Master’s at Ontario Tech University, where my work centers on improving the fairness, trust, and efficiency of LLMs and multilingual NLP systems.
 
-🔍 **Research Interests**:
-- Large Language Models (LLMs)
-- NLP for Software Engineering
-- AI Fairness and Trustworthiness
-- Low-resource ML & Optimization
+🚀 I’ve led and published impactful research (NAACL, ICST) in areas like:
 
-🏅 **Highlights**:
-- Published at **NAACL** and **IEEE ICST 2025**
-- Selected as a **Google Women Techmakers Fellow**
-- Designed **FlakyXbert**, an optimized model for flaky test detection
-- Built **Threaded Paws**, an educational game on parallel programming
+- Multilingual model alignment and performance benchmarking (ALIGNFREEZE)
+- Flaky test detection using few-shot learning and Siamese networks (FlakyXbert)
+- Data leakage mitigation in LLM benchmarks (HumanEval analysis)
+
+My mission? To build scalable, trustworthy AI solutions — especially for resource-constrained environments — that bridge the gap between cutting-edge research and real-world applications.
+
+🧠 Key Strengths:
+• LLMOps & MLOps expertise
+• Proficient in PyTorch, Hugging Face, BERT, Transformers
+• Strong in NLP, few-shot learning, and evaluation frameworks
+• End-to-end experience from research to deployment
+• Cross-functional collaboration, teaching & mentoring (500+ students taught)
+
+🌎 Previously, I’ve worked with Google-Talentsprint, Major League Hacking, and open-source communities, contributing to both academic and applied AI problems.
+
+✅ Currently open to:
+
+- ML/NLP/LLM Engineer roles
+- AI Research positions (industry or labs)
+- Internships or part-time roles in MLOps/LLMOps
+
+Let’s connect if you're looking for someone who brings deep technical expertise, a researcher's curiosity, and a builder's mindset.
 
 ---
 
